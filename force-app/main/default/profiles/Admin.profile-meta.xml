@@ -321,10 +321,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>CreateContentSpace</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>CreateCustomizeDashboards</name>
     </userPermissions>
     <userPermissions>
@@ -354,10 +350,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>CreateWorkBadgeDefinition</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateWorkspaces</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -572,7 +564,7 @@
         <name>ManageHealthCheck</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>ManageHubConnections</name>
     </userPermissions>
     <userPermissions>
@@ -625,15 +617,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ManagePropositions</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ManagePvtRptsAndDashbds</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ManageRecommendationStrategies</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -733,10 +717,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>SendExternalEmailAvailable</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>SendSitRequests</name>
     </userPermissions>
     <userPermissions>
@@ -832,7 +812,7 @@
         <name>ViewEventLogFiles</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>ViewFlowUsageAndFlowEventData</name>
     </userPermissions>
     <userPermissions>
@@ -862,10 +842,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewSetup</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewUserPII</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
